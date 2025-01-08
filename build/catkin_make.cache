@@ -1,0 +1,2 @@
+f1tenth_simulator:planning_pkg
+-DCMAKE_BUILD_TYPE=RelWithDebInfo -DCATKIN_DEVEL_PREFIX=/home/long/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/long/catkin_ws/install -G Unix Makefiles
