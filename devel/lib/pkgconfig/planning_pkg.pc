@@ -1,0 +1,8 @@
+prefix=/home/long/catkin_ws/devel
+
+Name: planning_pkg
+Description: Description of planning_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
