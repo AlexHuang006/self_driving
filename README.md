@@ -13,4 +13,4 @@ based on ubuntu system
 
 5. run ROS, roslaunch f1tenth_simulator simulator.luanch
 
-6. implement node, rosrun my_controller xxxx.py
+6. implement node, rosrun planning_pkg xxxx.py
